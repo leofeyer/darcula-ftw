@@ -3,7 +3,7 @@
     <property name="created">2016-12-06T14:24:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-12-06T20:40:02</property>
+    <property name="modified">2016-12-15T12:51:58</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -18,8 +18,11 @@
     </option>
     <option name="BASH.HERE_DOC">
       <value>
-        <option name="BACKGROUND" value="5a5a5a" />
+        <option name="BACKGROUND" value="303030" />
       </value>
+    </option>
+    <option name="BASH.SHEBANG">
+      <value />
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
