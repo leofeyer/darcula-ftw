@@ -3,7 +3,7 @@
     <property name="created">2016-12-06T14:24:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-12-15T12:51:58</property>
+    <property name="modified">2016-12-16T08:47:59</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -118,6 +118,11 @@
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e74644" />
+      </value>
+    </option>
+    <option name="PHP_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
