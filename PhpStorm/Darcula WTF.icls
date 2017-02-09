@@ -3,7 +3,7 @@
     <property name="created">2016-12-06T14:24:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-12-19T17:31:49</property>
+    <property name="modified">2017-02-01T10:05:33</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -20,6 +20,9 @@
       <value>
         <option name="BACKGROUND" value="303030" />
       </value>
+    </option>
+    <option name="BASH.REDIRECTION">
+      <value />
     </option>
     <option name="BASH.SHEBANG">
       <value />
