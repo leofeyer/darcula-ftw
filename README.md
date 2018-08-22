@@ -4,27 +4,27 @@ This is an adjusted version of the Darcula color scheme by JetBrains.
 
 ## Base colors
 
-Palette      | Hex      
----          | ---      
-Background   | `#2b2b2b`
-Current line | `#323232`
-Selection    | `#214283`
-Foreground   | `#a9b7c6`
-Comment      | `#808080`
+Palette      | Hex       | RGB
+---          | ---       | ---
+Background   | `#2b2b2b` | `43 43 43`
+Current line | `#323232` | `50 50 50`
+Selection    | `#214283` | `33 66 131`
+Foreground   | `#a9b7c6` | `169 183 198`
+Comment      | `#808080` | `128 128 128`
 
 ## ANSI colors
 
-Palette      | Hex      
----          | ---      
-Black        | `#000000`
-Blue         | `#5394ec`
-Cyan         | `#299999`
-Gray         | `#555555`
-Green        | `#379c1a`
-Magenta      | `#ae8abe`
-Red          | `#e74644`
-White        | `#eeeeee`
-Yellow       | `#dcc457`
+Palette      | Hex       | RGB
+---          | ---       | ---
+Black        | `#000000` | `0 0 0`
+Blue         | `#5394ec` | `83 148 236`
+Cyan         | `#299999` | `41 153 153`
+Gray         | `#555555` | `85 85 85`
+Green        | `#379c1a` | `55 156 26`
+Magenta      | `#ae8abe` | `174 138 190`
+Red          | `#e74644` | `231 70 68`
+White        | `#eeeeee` | `238 238 238`
+Yellow       | `#dcc457` | `220 196 87`
 
 
 ## Changes
