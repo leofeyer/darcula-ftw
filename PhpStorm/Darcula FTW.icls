@@ -4,6 +4,7 @@
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
     <property name="modified">2017-04-13T17:41:11</property>
+    <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
