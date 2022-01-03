@@ -1,10 +1,9 @@
 # Darcula FTW - PhpStorm
 
-To install the color theme, copy the `.icls` file into the preferences folder of your PhpStorm installation, e.g.:
-
-```
-~/Library/Preferences/PhpStorm2016.3/colors
-```
-
-Then close and reopen PhpStorm and navigate to "Preferences" -> Editor -> Colors & Fonts. Select "Darcula FTW" from the
+To install the color scheme, open PhpStorm and navigate to "Preferences" ->
+"Editor" -> "Colors Scheme" and select "Import Scheme" from the scheme actions
 dropdown menu.
+
+The color scheme works best with the [Glowing Darcula theme][1].
+
+[1]: https://plugins.jetbrains.com/plugin/15905-glowing-darcula

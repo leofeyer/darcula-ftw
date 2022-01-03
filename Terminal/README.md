@@ -1,3 +1,3 @@
 # Darcula FTW - Terminal.app
 
-To install the color theme, simply double click on the `.terminal` file.
+To install the color scheme, simply double-click on the `.terminal` file.

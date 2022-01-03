@@ -6,7 +6,7 @@ This is an adjusted version of the Darcula color scheme by JetBrains.
 
 Palette      | Hex       | RGB
 ---          | ---       | ---
-Background   | `#2b2b2b` | `43 43 43`
+Background   | `#252024` | `37 32 36`
 Current line | `#323232` | `50 50 50`
 Selection    | `#214283` | `33 66 131`
 Foreground   | `#a9b7c6` | `169 183 198`
