@@ -6,9 +6,9 @@ This is an adjusted version of the Darcula color scheme by JetBrains.
 
 Palette      | Hex       | RGB
 ---          | ---       | ---
+Text         | `#bbbbbd` | `187 187 189`
 Background   | `#252024` | `37 32 36`
 Current line | `#323232` | `50 50 50`
-Selection    | `#214283` | `33 66 131`
 Foreground   | `#a9b7c6` | `169 183 198`
 Comment      | `#808080` | `128 128 128`
 
@@ -17,15 +17,13 @@ Comment      | `#808080` | `128 128 128`
 Palette      | Hex       | RGB
 ---          | ---       | ---
 Black        | `#000000` | `0 0 0`
-Blue         | `#5394ec` | `83 148 236`
-Cyan         | `#299999` | `41 153 153`
-Gray         | `#555555` | `85 85 85`
+Red          | `#b94640` | `185 70 64`
 Green        | `#379c1a` | `55 156 26`
-Magenta      | `#ae8abe` | `174 138 190`
-Red          | `#e74644` | `231 70 68`
-White        | `#eeeeee` | `238 238 238`
-Yellow       | `#dcc457` | `220 196 87`
-
+Yellow       | `#c7ad3a` | `199 173 58`
+Blue         | `#2d67c4` | `45 103 196`
+Magenta      | `#985acf` | `152 90 207`
+Cyan         | `#299999` | `41 153 153`
+White        | `#adadaf` | `173 173 175`
 
 ## Changes
 

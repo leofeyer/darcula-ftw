@@ -35,7 +35,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e74644" />
+        <option name="FOREGROUND" value="b94640" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -60,7 +60,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e74644" />
+        <option name="FOREGROUND" value="b94640" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -75,7 +75,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="dcc457" />
+        <option name="FOREGROUND" value="c7ad3a" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
@@ -188,7 +188,7 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e74644" />
+        <option name="FOREGROUND" value="b94640" />
       </value>
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
